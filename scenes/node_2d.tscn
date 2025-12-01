@@ -1,0 +1,6 @@
+[gd_scene load_steps=2 format=3 uid="uid://hermulvs1j0t"]
+
+[ext_resource type="Script" uid="uid://dannnnrfkc2vx" path="res://Script/Preenchimentos.gd" id="1_4dvvg"]
+
+[node name="Node2D" type="Node2D"]
+script = ExtResource("1_4dvvg")
